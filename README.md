@@ -5,7 +5,7 @@
 # Sign up
 ### 19 group project
 
-This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
+This project is for educational purposes only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
 
 Site published at: https://github.com/Eristid/Sign-up-project
 
