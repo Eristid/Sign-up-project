@@ -1,57 +1,47 @@
 body {
+    background-color: #4BB3C9;
 }
-.container {
-
-}
-    .left-column {
-
+    .container {
+        display: inline-block;
+        width: 800px;
+        margin-top: 100px;
+        margin-left: calc((100% - 800px) / 2);
     }
-    .link {
-
-    }
-    .
-    main {
-
-}
- main div{
-
-}
-h1 {
-
-}
-footer {
-
-}
-footer a {
-
-}
-footer span {
-
-}
-div:nth-of-type(2) {
-
-}
-div > div {
-
-}
-form {
-
-}
-form > div {
-
-}
-label {
-
-}
-input {
-
-}
-form > div > div {
-
-}
-div > span {
-
-}
-div > a {
-
-}
+        .left-column {
+            display: inline-block;
+            width: 40%;
+            float: left;
+            margin-top: 20px;
+            background-color: #0069BA;
+        }
+            .page-title {
+            }
+            .bottom-links {
+            }
+                .bottom-links > .link {
+                }
+                .bottom-links > .text {
+                }
+        .right-column {
+            display: inline-block;
+            width: 60%;
+            float: left;
+            padding: 60px;
+            background-color: #fff;
+        }
+            .close {
+            }
+            .form {
+            }
+                .form-row {
+                }
+                    .label {
+                    }
+                    .input {
+                    }
+                    .btn {
+                    }
+                    .form-row > .text {
+                    }
+                    .form-row > .link {
+                    }
